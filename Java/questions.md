@@ -1,0 +1,53 @@
+- 진행한 프로젝트와 아키텍처에 대해서 알려주세요.
+- 그림으로 아키텍처, 프레임워크, 사용한 기술에 대해 설명해주세요.
+- ThreadPoolExecutor는 어떻게 동작하나요?
+- 커스텀 불변 클래스를 어떻게 만드나요? 자바에서 불변 클래스의 예는 무엇인가요?
+- hasCode()와 equals()가 무엇인가요? map에서 객체를 키로 사용하면 어떻게 되마요? 올바르게 사용하는 방법은 무엇인가요?
+- 깊은 복사와 얕은 복사가 무엇인가요?
+- CompletableFuture가 무엇인가요?
+- 최신 자바 메모리 모델이 무엇인가요?
+- concurrent collection이 무엇인가요?
+- HashMap, ArrayList 및 LinkedList의 시간/공간 복잡도를 말해주세요
+- Arrays.sort()와 Collections.sort()에서 사용되는 알고리즘은 무엇인가요?
+- 자바에서 커스텀 어노테이션을 어떻게 만드나요?
+- HashMap과 HashSet은 내부적으로 어떻게 작동되나요?
+- String의 join() 메소드의 용도는 무엇인가요?
+- 자바 8/자바11/자바17의 새로운 기능은 무엇인가요?
+- 자바에서 병렬 스트림이란 무엇이며 어떻게 작동하나요?
+- 자바 메모리 모델의 새로운 개선점이 무엇인가요? 자바8 hashmap의 개선점은 무엇인가요?
+- 이 어노테이션의 용도는 무엇인가요? - @RequestMapping @RestController @Service @Repository @Entity
+- Actuator가 무엇이고 어디에 쓰이나요?
+- 애플리케이션의 복원력을 높이는 방법은 무엇인가요?
+- distributed tracing이 무엇인가요? traceId와 spanId는 무엇인가요?
+- 스프링 부트에서 WebFlux 및 Mono Framework란 무엇인가요?
+- 스프링이 주기적으로 의존하는 것은 무엇이며, 어떻게 예방하나요?
+- REST API를 보호하는 방법은?
+- 스프링 부트에서 auto-configuration을 비활성화하는 방법은 무엇인가요?
+- SQL과 NoSQL의 차이는 무엇인가요?
+- 데이터베이스의 샤딩이 무엇인가요?
+- JPA란 무엇인가요?
+- 부모-자식 관계란 무엇인가요?
+- 조인이란 무엇인가요?
+- 배열에서 두 번째로 높은 원소를 찾는 프로그램을 작성하세요. 배열에는 중복 원소가 포함될 수 있습니다.
+- 스트림 API를 이용하여 주어진 문자열에서 중복 요소를 찾아보세요.
+- 주어진 배열에서 가장 긴 문자열을 찾는 프로그램을 작성해보세요.
+- 유효한 괄호를 만드는 프로그램을 작성해보세요.
+- Kubernetes에서 POD, Configmap, Node와 cluster가 무엇인가요?
+- Hybrid cloud란 무엇인가요?
+- Apache Spark란 무엇인가요?
+- Kafka는 무엇이고 어떻게 작동하나요? offset과 consumer group은 무엇인가요?
+- 싱글톤 디자인 패턴, 빌더 디자인 패턴, facade 디자인 패턴은 무엇인가요?
+- 우리가 사용해야 할 일반적인 마이크로 서비스 패턴은 무엇인가요? 두가지를 말씀해 주세요.
+- JVM 에 대해서, GC 의 원리
+- Java Collection 에는 `List`, `Map`, `Set` 인터페이스에 대해서
+- Annotation이란
+- Generic이란
+- final에 대해 설명해보시오
+- Overriding vs Overloading
+- Access Modifier에 대해서 설명해보시오
+- Wrapper class에 대해서
+- AutoBoxing
+- Multi-Thread 환경에서의 개발
+- Field member
+- 동기화(Synchronized)
+- ThreadLocal
